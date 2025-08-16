@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "title": "Spaghetti Carbonara",
+    "summary": "A classic Italian pasta dish with eggs, cheese, bacon, and black pepper.",
+    "image": "https://via.placeholder.com/300x200",
+    "ingredients": [
+      "400g spaghetti",
+      "200g pancetta or bacon",
+      "4 large eggs",
+      "100g Pecorino Romano cheese",
+      "Black pepper",
+      "Salt"
+    ],
+    "instructions": [
+      "Bring a large pot of salted water to boil and cook spaghetti according to package directions.",
+      "While pasta cooks, heat a large skillet over medium heat and cook pancetta until crispy.",
+      "In a bowl, whisk together eggs, grated cheese, and black pepper.",
+      "Drain pasta, reserving 1 cup of pasta water.",
+      "Add hot pasta to the skillet with pancetta.",
+      "Remove from heat and quickly stir in egg mixture, adding pasta water as needed.",
+      "Serve immediately with extra cheese and black pepper."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Chicken Tikka Masala",
+    "summary": "Chunks of grilled chicken (tikka) cooked in a smooth buttery & creamy tomato based gravy.",
+    "image": "https://via.placeholder.com/300x200",
+    "ingredients": [
+      "500g chicken breast, cubed",
+      "1 cup plain yogurt",
+      "2 tbsp tikka masala spice blend",
+      "1 onion, diced",
+      "3 cloves garlic, minced",
+      "1 can crushed tomatoes",
+      "1/2 cup heavy cream",
+      "2 tbsp butter",
+      "Fresh cilantro"
+    ],
+    "instructions": [
+      "Marinate chicken in yogurt and half the spice blend for at least 30 minutes.",
+      "Heat butter in a large pan and cook marinated chicken until golden.",
+      "Remove chicken and set aside.",
+      "In the same pan, cook onion and garlic until softened.",
+      "Add remaining spices and cook for 1 minute.",
+      "Add crushed tomatoes and simmer for 10 minutes.",
+      "Stir in cream and return chicken to the pan.",
+      "Simmer for 5 more minutes and garnish with cilantro."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Chocolate Chip Cookies",
+    "summary": "Classic homemade chocolate chip cookies that are crispy on the outside and chewy on the inside.",
+    "image": "https://via.placeholder.com/300x200",
+    "ingredients": [
+      "2 1/4 cups all-purpose flour",
+      "1 tsp baking soda",
+      "1 tsp salt",
+      "1 cup butter, softened",
+      "3/4 cup granulated sugar",
+      "3/4 cup brown sugar",
+      "2 large eggs",
+      "2 tsp vanilla extract",
+      "2 cups chocolate chips"
+    ],
+    "instructions": [
+      "Preheat oven to 375°F (190°C).",
+      "In a bowl, whisk together flour, baking soda, and salt.",
+      "In a large bowl, cream together butter and both sugars until fluffy.",
+      "Beat in eggs one at a time, then stir in vanilla.",
+      "Gradually blend in flour mixture.",
+      "Stir in chocolate chips.",
+      "Drop rounded tablespoons of dough onto ungreased cookie sheets.",
+      "Bake for 9-11 minutes or until golden brown.",
+      "Cool on baking sheet for 2 minutes before removing."
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Caesar Salad",
+    "summary": "A fresh and crispy Caesar salad with homemade dressing, croutons, and parmesan cheese.",
+    "image": "https://via.placeholder.com/300x200",
+    "ingredients": [
+      "1 large head romaine lettuce",
+      "1/2 cup mayonnaise",
+      "2 tbsp lemon juice",
+      "2 cloves garlic, minced",
+      "1 tsp Worcestershire sauce",
+      "1/2 cup grated Parmesan cheese",
+      "2 cups croutons",
+      "Salt and pepper"
+    ],
+    "instructions": [
+      "Wash and chop romaine lettuce into bite-sized pieces.",
+      "In a small bowl, whisk together mayonnaise, lemon juice, garlic, and Worcestershire sauce.",
+      "Season dressing with salt and pepper to taste.",
+      "In a large bowl, toss lettuce with dressing.",
+      "Add half the Parmesan cheese and toss again.",
+      "Top with croutons and remaining Parmesan cheese.",
+      "Serve immediately."
+    ]
+  }
+]
+
